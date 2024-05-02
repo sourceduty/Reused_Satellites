@@ -12,7 +12,10 @@ When a satellite reaches the end of its operational life, the deorbiting process
 Designing a reusable satellite entails a comprehensive approach, focusing on modular design, robust construction, and efficient deployment strategies to ensure both functionality and longevity. The primary goal of such a mission would be demonstrate the feasibility and efficiency of reusable satellite technology. This would not only help in reducing costs but also in minimizing space debris.
 
 #
-### Reusable Satellites Design
+### Notes
+
+<details><summary>Reusable Satellites Design</summary>
+<br>
 
 Designing reusable satellites requires incorporating several specialized components and systems to ensure their longevity, functionality, and safe re-entry when necessary. One critical component in this design is a heat shield, especially for satellites intended to be returned to Earth for refurbishment. The heat shield protects the satellite's sensitive electronics and structural components from the extreme heat generated during re-entry into the Earth's atmosphere. Additionally, the satellite should include advanced propulsion systems such as ion thrusters, which provide efficient and precise maneuverability for orbital adjustments and deorbiting. These systems are essential for extending the operational life of the satellite by allowing it to move between orbits or to a designated safe deorbit path.
 
@@ -20,8 +23,8 @@ Moreover, the satellite's design must emphasize modular construction, where key 
 
 Operational flexibility and robustness are also enhanced by the integration of smart systems for self-diagnostics and health management. These systems use sensors and onboard algorithms to continuously monitor the satellite's condition and perform predictive maintenance, thereby preempting failures and optimizing performance. Coupled with AI-driven decision-making tools, these smart systems can dynamically manage the satellite’s resources, adjust operational parameters in real-time, and even handle complex decision-making processes during anomaly resolution. This level of autonomy is particularly important for ensuring the longevity and high operational availability of reusable satellites, making them a viable and cost-effective solution for global utilization.
 
-#
-### Notes
+<br>
+</details>
 
 <details><summary>Reusable Satellite Mission Simulation</summary>
 <br>
