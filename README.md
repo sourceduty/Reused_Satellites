@@ -1,6 +1,7 @@
 ![Satellite Parachute](https://github.com/sourceduty/Recycle_Satellites/assets/123030236/1e4865e4-8857-414d-a459-d6dfcb73c55d)
 
-### Satellite Lifespan
+> Satellite hardware lifespan, deorbiting process and reuse planning.
+#
 
 The lifespan of traditional space satellites typically ranges between 5 to 15 years, depending on their mission type, orbital environment, and the robustness of their design. Satellites in geostationary orbit generally have longer operational lifespans due to their stable orbital position, which requires less fuel for orbital adjustments compared to those in lower orbits. Factors that determine a satellite's lifespan include the durability of its components, the amount of fuel it carries for maneuvering, and its ability to withstand the harsh space environment characterized by extreme temperatures, radiation, and micrometeoroid impacts. Over time, the degradation of solar panels, exhaustion of fuel reserves, and potential system failures contribute to the end of a satellite’s operational life. Maintenance and upgrades are not typically feasible for most conventional satellites, leading to the eventual cessation of their functionality once their resources are depleted or critical systems fail.
 
@@ -137,6 +138,11 @@ This ion-powered satellite design is tailored for efficiency and extended operat
 
 <br>
 </details>
+
+#
+### Related Links
+
+[Satellite Lab](https://github.com/sourceduty/Satellite_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
