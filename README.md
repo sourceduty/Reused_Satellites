@@ -143,6 +143,8 @@ This ion-powered satellite design is tailored for efficiency and extended operat
 ### Related Links
 
 [Satellite Lab](https://github.com/sourceduty/Satellite_Lab)
+<br>
+[Rocket Lab](https://github.com/sourceduty/Rocket_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
